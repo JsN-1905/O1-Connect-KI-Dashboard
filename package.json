@@ -3,7 +3,7 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
-  "homepage": "https://DEIN-GITHUB-USERNAME.github.io/o1-connect-dashboard",
+  "homepage": "https://JsN-1905.github.io/O1-Connect-KI-Dashboard",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
