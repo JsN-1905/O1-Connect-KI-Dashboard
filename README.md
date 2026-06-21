@@ -19,6 +19,12 @@ Simuliert ein Zendesk-artiges Support-Dashboard mit dem KI-Assistenten **Kai**.
 
 ---
 
+## Link zum Prototypen
+
+Der Prototyp lässt sich unter folgendem Link aufrufen: https://jsn-1905.github.io/O1-Connect-KI-Dashboard/
+
+---
+
 ## Projektstruktur
 
 ```
